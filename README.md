@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">Aspiring AI Engineer 🤖 | Continuous Learner 🚀</h3>
 
-<p align="center">
-  <!-- Ye profile views counter hai. Niche 'YOUR_GITHUB_USERNAME' ko Shivam ke asli username se replace kar dena -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👨‍💻 About My Journey
@@ -23,6 +18,7 @@ Welcome to my GitHub! I have just started my coding journey with a clear vision:
 ### 🛠️ Tools & Tech (Currently Mastering)
 
 <p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <!-- Python Badge -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <!-- Git Badge -->
@@ -35,9 +31,4 @@ Welcome to my GitHub! I have just started my coding journey with a clear vision:
 
 ---
 
-### 📊 GitHub Stats (Watch Me Grow!)
-
-<p align="center">
-  <!-- Ye stats automatically update honge jaise-jaise wo code likhega. 'YOUR_GITHUB_USERNAME' ko change karna mat bhulna -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Shivam's GitHub Stats" />
-</p>
+*“Focusing on the fundamentals to build intelligent systems tomorrow.”*
