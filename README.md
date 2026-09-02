@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./work.gif" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">Aspiring AI Engineer 🤖 | Continuous Learner 🚀</h3>
 
