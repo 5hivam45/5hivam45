@@ -33,6 +33,10 @@ Welcome to my GitHub! I have just started my coding journey with a clear vision:
   <img src="https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal" />
 </p>
 
+<h3 align="center">🔥 GitHub  Streak</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=5hivam45&theme=tokyonight&background=0d1117&ring=00ff7f&fire=ff7b72&curr_num=00ff7f&curr_lbl=00ff7f&tot_num=38bdf8&tot_lbl=38bdf8&long_num=c084fc&long_lbl=c084fc&side_labels=false" alt="GitHub Coding Streak" />
+</p>
 ---
 
 *“Focusing on the fundamentals to build intelligent systems tomorrow.”*
