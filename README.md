@@ -37,6 +37,16 @@ Welcome to my GitHub! I have just started my coding journey with a clear vision:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=5hivam45&theme=tokyonight&background=0d1117&ring=00ff7f&fire=ff7b72&curr_num=00ff7f&curr_lbl=00ff7f&tot_num=38bdf8&tot_lbl=38bdf8&long_num=c084fc&long_lbl=c084fc&side_labels=false" alt="GitHub Coding Streak" />
 </p>
----
 
-*“Focusing on the fundamentals to build intelligent systems tomorrow.”*
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=5hivam45&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
+</p>
+
